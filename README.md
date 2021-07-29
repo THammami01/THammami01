@@ -2,7 +2,7 @@
 <h3 align="center">A passionate student developer, self-learner, coding addict, and open-sourceror.<br>Commited to lifetime learning.</h3>
 
 - 🔭 I’m a CS student at **HIALCS (ISLAI) Beja**
-- 🌱 I’m currently learning **DevOps, Software Testing, CI/CD, Ethical Hacking, Competitive Programming**
+- 🌱 I’m currently learning **DevOps, Software Testing, CI/CD, Competitive Programming**
 - 💬 Ask me if I can be of any help with my limited knowledge in **C, Java, Python 3, SQL, JavaScript ES6+, React..**
 - 📫 Reach me by email at **thammami.me@gmail.com**
 
