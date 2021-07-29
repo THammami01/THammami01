@@ -357,20 +357,20 @@
   />
 </a>
   
-<a href="https://www.jetbrains.com/idea/" target="_blank">
+<a href="https://www.sublimetext.com/" target="_blank">
   <img
     src="https://upload.wikimedia.org/wikipedia/fr/7/78/Sublime_text_logo.png"
-    alt="intellij"
+    alt="sublime"
     width="40"
     height="40"
   />
 </a>
   
   
-<a href="https://www.sublimetext.com/" target="_blank">
+<a href="https://www.vim.org/" target="_blank">
   <img
     src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Icon-Vim.svg/1200px-Icon-Vim.svg.png"
-    alt="sublime"
+    alt="vim"
     width="40"
     height="40"
   />
