@@ -134,7 +134,7 @@
   
 <a href="https://material-ui.com/" target="_blank">
   <img
-    src="https://material-ui.com/static/logo.png"
+    src="https://mui.com/static/logo.png"
     alt="materialui"
     width="40"
     height="40"
