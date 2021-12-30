@@ -405,3 +405,6 @@
 <div><img src="https://github-readme-stats.vercel.app/api?username=thammami01&show_icons=true&locale=en&theme=radical" alt="thammami01" /></div>
 
 <div><img src="https://github-readme-streak-stats.herokuapp.com/?user=thammami01&theme=radical" alt="thammami01" /></div>
+
+<br/>
+<p>LAST PROFILE UPDATE: 5 Oct. 2021</p>
