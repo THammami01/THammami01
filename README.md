@@ -19,7 +19,7 @@
     <img align="center" src="https://img.shields.io/badge/-Facebook-blue?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook" height="25" />
   </a>
 
-  <a href="https://www.hackerrank.com/THammami01" target="blank">
+  <a href="https://www.linkedin.com/in/thammami01" target="blank">
     <img align="center" src="https://img.shields.io/badge/-LinkedIn-0077b5?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn" height="25" />
   </a>
 
@@ -31,7 +31,7 @@
     <img align="center" src="https://img.shields.io/badge/-HackerRank-39424e?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank" height="25" />
   </a>
 
-  <a href="https://www.hackerrank.com/THammami01" target="blank">
+  <a href="https://leetcode.com/THammami01" target="blank">
     <img align="center" src="https://img.shields.io/badge/-LeetCode-181a1b?style=for-the-badge&logo=LeetCode" alt="LeetCode" height="25" />
   </a>
 </p>
