@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tarek Hammami</h1>
 <h3 align="center">A passionate student developer, self-learner, coding addict, and open-sourceror.<br>Well, that means I'm commited to lifetime learning. 😎</h3>
 
-<hr />
-
 - 🔭 I’m a CS student (final year) at the **HIALCS (ISLAI) of Beja**
 - 🌱 I’m currently learning **DevOps**, meanwhile, preparing for the **CEH Certification**
 - 💬 Ask me if I can be of any help with my limited knowledge in **C, Java, Python, JS/TS ES6+, React..**
@@ -37,7 +35,7 @@
     <img align="center" src="https://img.shields.io/badge/-LeetCode-181a1b?style=flat&logo=LeetCode" alt="THammami01" height="25" />
   </a>
 </p>
-
+  
 <b>Support:</b>
 
 <p>
@@ -51,7 +49,6 @@
 
 <details>
   <summary><b>GitHub Stats</b></summary>
-  
   <br />
 
   <div>
