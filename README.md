@@ -34,6 +34,10 @@
   <a href="https://leetcode.com/THammami01" target="blank">
     <img align="center" src="https://img.shields.io/badge/-LeetCode-181a1b?style=for-the-badge&logo=LeetCode" alt="LeetCode" height="25" />
   </a>
+
+  <a href="https://stackoverflow.com/users/11542205" target="blank">
+    <img align="center" src="https://img.shields.io/badge/-StackOverflow-2d2d2d?style=for-the-badge&logo=StackOverflow" alt="StackOverflow" height="25" />
+  </a>
 </p>
   
 <b>Support:</b>
