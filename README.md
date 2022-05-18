@@ -1,8 +1,8 @@
 <h2 align="center">Hi 👋, I'm Tarek Hammami</h2>
-<h3 align="center">A passionate student developer, self-learner, coding addict, and open-sourceror.<br>Well, that means I'm commited to lifetime learning. 😎</h3>
+<h3 align="center">A passionate student developer, self-learner, coding addict, and newbie open-sourceror.<br>Well, that means I'm commited to lifetime learning. 😎</h3>
 
 - 🔭 *I’m a CS student (final year) at the **HIALCS (ISLAI) of Beja***
-- 🌱 *I’m currently learning **DevOps**, meanwhile, preparing for the **CEH Certification***
+- 🌱 *I’m currently learning **DevOps**, meanwhile, wokring on some **private projects***
 - 💬 *Ask me if I can be of any help with my limited knowledge in **C, Java, Python, JS/TS ES6+, React..***
 - 📫 *Reach me by email at **thammami.me@gmail.com***
 - 🌐 *Check [**my portfolio**](https://tarekhammami.me/) if you want to hire me*
