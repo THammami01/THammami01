@@ -2,8 +2,8 @@
 <h3 align="center">A passionate developer, self-learner, coding addict, and newbie open-sourceror.<br>Well, that means I'm commited to lifetime learning. 😎</h3>
 
 - 🌱 *I’m currently learning **DevOps**, meanwhile, working on **private projects***
-- 💬 *Ask me if I can be of any help with my limited knowledge in **C, Java, Python, JS/TS ES6+, React..***
-- 📫 *Reach me by email at **thammami.me@gmail.com***
+- 💬 *Ask me if I can be of any help with my limited knowledge in **Java, Python, TS, React, Git, Docker..***
+- 📫 *Reach me by email at **tarekhammamix01@gmail.com***
 - 🌐 *Check [**my portfolio**](https://tarekhammami.me/) if you want to hire me*
 - 📝 *Please let me know if you want my contribution to an open-source project*
 
@@ -14,28 +14,28 @@
     <img align="center" src="https://img.shields.io/badge/-Telegram-1572B6?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram" height="25" />
   </a>
 
-  <a href="https://fb.me/TxHammami01" target="blank">
-    <img align="center" src="https://img.shields.io/badge/-Facebook-blue?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook" height="25" />
-  </a>
-
   <a href="https://www.linkedin.com/in/thammami01" target="blank">
     <img align="center" src="https://img.shields.io/badge/-LinkedIn-0077b5?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn" height="25" />
   </a>
-
+  
   <a href="https://www.sololearn.com/profile/14095074" target="blank">
     <img align="center" src="https://img.shields.io/badge/-SoloLearn-6b7f99?style=for-the-badge&logo=SoloLearn&logoColor=white" alt="SoloLearn" height="25" />
   </a>
-
+  
   <a href="https://www.hackerrank.com/THammami01" target="blank">
     <img align="center" src="https://img.shields.io/badge/-HackerRank-39424e?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank" height="25" />
   </a>
-
-  <a href="https://leetcode.com/THammami01" target="blank">
-    <img align="center" src="https://img.shields.io/badge/-LeetCode-181a1b?style=for-the-badge&logo=LeetCode" alt="LeetCode" height="25" />
+  
+  <a href="https://www.freecodecamp.org/thammami01" target="blank">
+    <img align="center" src="https://img.shields.io/badge/-freeCodeCamp-0a0a23?style=for-the-badge&logo=freeCodeCamp&logoColor=white" alt="freeCodeCamp" height="25" />
   </a>
 
   <a href="https://stackoverflow.com/users/11542205" target="blank">
     <img align="center" src="https://img.shields.io/badge/-StackOverflow-2d2d2d?style=for-the-badge&logo=StackOverflow" alt="StackOverflow" height="25" />
+  </a>
+  
+  <a href="https://leetcode.com/THammami01" target="blank">
+    <img align="center" src="https://img.shields.io/badge/-LeetCode-181a1b?style=for-the-badge&logo=LeetCode" alt="LeetCode" height="25" />
   </a>
 </p>
   
