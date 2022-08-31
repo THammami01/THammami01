@@ -1,7 +1,7 @@
 <h2 align="center">Hi 👋, I'm Tarek Hammami</h2>
 <h3 align="center">A passionate developer, self-learner, coding addict, and newbie open-sourceror.<br>Well, that means I'm commited to lifetime learning. 😎</h3>
 
-- 🌱 *I’m currently learning **DevOps**, meanwhile, working on **private projects***
+- 🌱 *I’m currently learning **DevOps and cloud computing services**, meanwhile, working on **private projects***
 - 💬 *Ask me if I can be of any help with my limited knowledge in **Java, Python, TS, React, Git, Docker..***
 - 📫 *Reach me by email at **tarekhammamix01@gmail.com***
 - 🌐 *Check [**my portfolio**](https://tarekhammami.me/) if you want to hire me*
