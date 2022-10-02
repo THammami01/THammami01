@@ -38,17 +38,6 @@
     <img align="center" src="https://img.shields.io/badge/-LeetCode-181a1b?style=for-the-badge&logo=LeetCode" alt="LeetCode" height="25" />
   </a>
 </p>
-  
-<b>Support:</b>
-
-<p>
-  <p>
-    <a href="https://www.buymeacoffee.com/THammami01" color="grey">
-      <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="THammami01" />
-    </a>
-    &nbsp;&nbsp;<sup style="text-decoration: none">Disabled due to lack of payment method.</sup>
-  </p>
-</p>
 
 <details>
   <summary><b>GitHub Stats</b></summary>
