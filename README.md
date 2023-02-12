@@ -2,7 +2,7 @@
 <h3 align="center"><i>A passionate developer and self-learner on a never-ending quest for learning and growth.</i></h3>
 
 - 🌱 *I'm currently diving into the world of **DevOps and cloud computing services**, while also working on some **private projects***
-- 💬 *If I can be of any **help** with my limited knowledge in **🐍 Python, ⚛️ React TS, 🍂 MongoDB, 🔧 Git, 🐳 Docker..** please feel free to ask!*
+- 💬 *Please **feel free to ask** if I can be of any **help** with my limited knowledge in **🐍 Python, ⚛️ React TS, 🍂 MongoDB, 🔧 Git, 🐳 Docker..***
 - 🌐 *In case you want to **hire me**, please check [**my portfolio**](https://tarekhammami.me/) and reach me by email at **tarekhammamix01@gmail.com***
 - 📝 *I'm open to **contributing to open-source projects**, so if you need a hand, **just lemmmme know**! 🙌*
 
