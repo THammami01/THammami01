@@ -1,11 +1,10 @@
-<h2 align="center">Hi 👋, I'm Tarek Hammami</h2>
-<h3 align="center">A passionate developer, self-learner, coding addict, and newbie open-sourceror.<br>Well, that means I'm commited to lifetime learning. 😎</h3>
+<h2 align="center">Hi 👋, I'm Tarek Hammami.</h2>
+<h3 align="center"><i>A passionate developer and self-learner on a never-ending quest for learning and growth.</i></h3>
 
-- 🌱 *I’m currently learning **DevOps and cloud computing services**, meanwhile, working on **private projects***
-- 💬 *Ask me if I can be of any help with my limited knowledge in **Java, Python, TS, React, Git, Docker..***
-- 📫 *Reach me by email at **tarekhammamix01@gmail.com***
-- 🌐 *Check [**my portfolio**](https://tarekhammami.me/) if you want to hire me*
-- 📝 *Please let me know if you want my contribution to an open-source project*
+- 🌱 *I'm currently diving into the world of **DevOps and cloud computing services**, while also working on some **private projects***
+- 💬 *If I can be of any **help** with my limited knowledge in **🐍 Python, ⚛️ React TS, 🍂 MongoDB, 🔧 Git, 🐳 Docker..** please feel free to ask!*
+- 🌐 *In case you want to **hire me**, please check [**my portfolio**](https://tarekhammami.me/) and reach me by email at **tarekhammamix01@gmail.com***
+- 📝 *I'm open to **contributing to open-source projects**, so if you need a hand, **just lemmmme know**! 🙌*
 
 <b>Connect with me:<b>
 
@@ -34,17 +33,17 @@
     <img align="center" src="https://img.shields.io/badge/-StackOverflow-2d2d2d?style=for-the-badge&logo=StackOverflow" alt="StackOverflow" height="25" />
   </a>
   
-  <a href="https://leetcode.com/THammami01" target="blank">
-    <img align="center" src="https://img.shields.io/badge/-LeetCode-181a1b?style=for-the-badge&logo=LeetCode" alt="LeetCode" height="25" />
-  </a>
-  
   <a href="https://gitlab.com/THammami01" target="blank">
     <img align="center" src="https://img.shields.io/badge/-GitLab-1f1e24?style=for-the-badge&logo=GitLab" alt="GitLab" height="25" />
   </a>
+
+  <a href="https://leetcode.com/THammami01" target="blank">
+    <img align="center" src="https://img.shields.io/badge/-LeetCode-181a1b?style=for-the-badge&logo=LeetCode" alt="LeetCode" height="25" />
+  </a>  
 </p>
 
 <details>
-  <summary><b>GitHub Stats</b></summary>
+  <summary><b>Coding Stats</b></summary>
   <br />
 
   <div>
@@ -64,5 +63,5 @@
   </div>
 </details>
 
-Contributions are welcome! ❤️<br />
-Happy coding! 🎉
+Contributions are so welcome! ❤️<br />
+Thank you for stopping by and happy coding! 💻🎉
