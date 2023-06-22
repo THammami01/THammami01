@@ -13,7 +13,7 @@
     <img align="center" src="https://img.shields.io/badge/-Telegram-1572B6?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram" height="25" />
   </a>
 
-  <a href="https://www.linkedin.com/in/thammami01" target="blank">
+  <a href="https://www.linkedin.com/in/thammamix01" target="blank">
     <img align="center" src="https://img.shields.io/badge/-LinkedIn-0077b5?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn" height="25" />
   </a>
   
