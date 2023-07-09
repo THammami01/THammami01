@@ -1,3 +1,7 @@
+<hr/>
+<p align="center">I'm currently in the process of updating my portfolio and all profiles. Kindly check back later to see the latest updates.</p>
+<hr/>
+
 <h2 align="center">Hi 👋, I'm Tarek Hammami.</h2>
 <h3 align="center"><i>A passionate developer and self-learner on a never-ending quest for learning and growth.</i></h3>
 
