@@ -64,4 +64,4 @@
 </details>
 
 Contributions are so welcome! ❤️<br />
-Thank you for stopping by and happy coding! 💻🎉
+Happy coding! 💻🎉
