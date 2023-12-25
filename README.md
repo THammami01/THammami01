@@ -1,6 +1,6 @@
-<hr/>
+<!-- <hr/>
 <p align="center">I'm currently in the process of updating my portfolio and all profiles. Kindly check back later to see the latest updates.</p>
-<hr/>
+<hr/> -->
 
 <b>Connect with me:<b>
 
