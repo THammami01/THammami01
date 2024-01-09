@@ -9,17 +9,17 @@
     <img align="center" src="https://img.shields.io/badge/-Telegram-1572B6?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram" height="25" />
   </a>
 
-  <!-- <a href="https://www.linkedin.com/in/thammamix01" target="blank">
+  <a href="https://www.linkedin.com/in/thammami01" target="blank">
     <img align="center" src="https://img.shields.io/badge/-LinkedIn-0077b5?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn" height="25" />
-  </a> -->
+  </a>
   
   <!-- <a href="https://www.sololearn.com/profile/14095074" target="blank">
     <img align="center" src="https://img.shields.io/badge/-SoloLearn-6b7f99?style=for-the-badge&logo=SoloLearn&logoColor=white" alt="SoloLearn" height="25" />
   </a> -->
   
-  <a href="https://www.hackerrank.com/THammami01" target="blank">
+  <!-- <a href="https://www.hackerrank.com/THammami01" target="blank">
     <img align="center" src="https://img.shields.io/badge/-HackerRank-39424e?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank" height="25" />
-  </a>
+  </a> -->
   
   <!-- <a href="https://www.freecodecamp.org/thammami01" target="blank">
     <img align="center" src="https://img.shields.io/badge/-freeCodeCamp-0a0a23?style=for-the-badge&logo=freeCodeCamp&logoColor=white" alt="freeCodeCamp" height="25" />
