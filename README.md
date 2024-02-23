@@ -47,7 +47,8 @@
 
 <h4>Latest Writings</h4>
 
+* Feb 23, 2024 - [Guide to Successful Google Summer of Code (GSoC) Contributor Applications](https://dev.to/thammami01/guide-to-successful-google-summer-of-code-gsoc-contributor-applications-13l6)
 * Oct 9, 2022 - [SSH into your local VM as if it is a paid IaaS](https://dev.to/thammami01/ssh-into-your-local-vm-as-if-it-is-a-paid-iaas-4emm)
 
 > [!NOTE]
-> You can find and read all of them on [DEV.to](https://dev.to/THammami01).
+> You can find and read all of them on my [personal website](https://v3.tarekhammami.me/posts) or [DEV.to](https://dev.to/THammami01).
