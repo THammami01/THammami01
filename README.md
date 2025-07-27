@@ -51,4 +51,4 @@
 * Oct 9, 2022 - [SSH into your local VM as if it is a paid IaaS](https://dev.to/thammami01/ssh-into-your-local-vm-as-if-it-is-a-paid-iaas-4emm)
 
 > [!NOTE]
-> You can find and read all of them on my [personal website](https://v3.tarekhammami.me/posts) or [DEV.to](https://dev.to/THammami01).
+> You can find and read all of them on my [personal website](https://tarekhammami.com) or [DEV.to](https://dev.to/THammami01).
